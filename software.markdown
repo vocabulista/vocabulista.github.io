@@ -17,7 +17,7 @@ With Kosh you can make dictionaries in XML format be available via APIs with red
 
 Digital version of this foundational work for the Chilean and Latin American lexicography, compiled by [Rodolfo Lenz](https://de.wikipedia.org/wiki/Rodolfo_Lenz). 
 
-The application is a bit outdated, but it works.
+The application is outdated. It is **only** possible to **search**, not to edit entries.
 
 
 
