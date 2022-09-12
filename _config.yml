@@ -19,17 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Francisco Mondaca
-email: f.mondaca at uni-koeln.de
-description: Computational Linguist,  Research Software Engineer
+email: f.mondaca@uni-koeln.de
+description: Computational Linguist - Research Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: https://vocabulista.com # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  vocabulista
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+social:
+  name: Francisco Mondaca
+  links:
+    - https://www.linkedin.com/in/fcomondaca
+    - https://github.com/vocabulista
 
 # Exclude from processing.
 # The following items will not be processed, by default.

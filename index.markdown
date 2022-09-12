@@ -9,17 +9,16 @@ layout: home
 
 <br/>
 
-I am a computational linguist and research software engineer at the Cologne Center for eHumanities. 
+I am a computational linguist and I work as a research software engineer at the Cologne Center for eHumanities. 
 
 The main goal of my research is to improve the access to lexical data and corpora. I am also interested in the development of software for annotating texts.
 
-If you want to contact me, drop me a line:
+__Email__: [f.mondaca@uni-koeln.de](f.mondaca@uni-koeln.de)
 
-__Email__: f.mondaca at uni-koeln.de
 
 <br/>
 
-Profiles: [Google Scholar](https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en) , [ORCID](https://orcid.org/0000-0003-1384-7297)
+Profiles: [Google Scholar](https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-1384-7297)
 
 <br/>
 
