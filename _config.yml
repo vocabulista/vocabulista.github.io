@@ -28,8 +28,10 @@ github_username:  vocabulista
 # Build settings
 theme: minima
 plugins:
+  - jekyll-pdf-embed
   - jekyll-feed
   - jekyll-seo-tag
+
 
 social:
   name: Francisco Mondaca
