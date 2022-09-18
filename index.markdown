@@ -4,7 +4,7 @@
 
 layout: home
 ---
- <img style="float: right;" src="/assets/web_small.jpg">
+ <img style="float: right;" width="150px" heigth="150px" src="/assets/web_small.jpg">
 
 
 <br/>
