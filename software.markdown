@@ -13,7 +13,7 @@ With Kosh you can make dictionaries in XML format be available via APIs with red
 <br/>
 
 #### [EISP](https://github.com/cceh/eisp): Extract, Index and Search PDFs
-Tool for extracting text from PDFs, indexing and searching them.
+EISP allows you to extract, index and search any PDF containing text.
 
 * * *
 <br/>
