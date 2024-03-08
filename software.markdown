@@ -13,7 +13,7 @@ MPCD is a digital corpus and dictionary dedicated to Zoroastrian Middle Persian,
 
 
 #### [Kosh](http://kosh.uni-koeln.de): A Framework for Creating and Maintaining APIs for Lexical Data  
-With Kosh you can make dictionaries in XML format be available via APIs with reduced technical requirements. You can try some of the APIs created for different datasets here: [dicts.uni-koeln.de](https://dicts.uni-koeln.de)
+Kosh simplifies the setup of XML-formatted dictionaries for API access, while offering powerful search functionality: [kosh.uni-koeln.de](https://kosh.uni-koeln.de).
 
 
 * * *
