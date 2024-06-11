@@ -9,9 +9,8 @@ layout: home
 
 <br/>
 
-I am a computational linguist and I work as a research software engineer at the Cologne Center for eHumanities. 
-
-The main goal of my research is to improve the access to lexical data and corpora. I am also interested in the development of software for annotating texts.
+I work as a research software engineer at the Regional Computing Center (RRZK) of the University of Cologne, specializing in computational linguistics.
+My main research goal is to improve access to linguistic data.
 
 __Email__: [f.mondaca@uni-koeln.de](f.mondaca@uni-koeln.de)
 
@@ -25,6 +24,5 @@ Profiles: [Google Scholar](https://scholar.google.de/citations?user=jZE0wtMAAAAJ
 Affiliations:
 
 - GSCL - [German Society for Computational Linguistics and Language Technology](https://gscl.org/en)  
-- CCeH - [Cologne Center for eHumanities](https://cceh.uni-koeln.de/)
+- CCEH - [Cologne Center for eHumanities](https://cceh.uni-koeln.de/)
 - CCLS - [Cologne Center for Language Studies](https://ccls.phil-fak.uni-koeln.de/)
-- AmericaLex - [Association of Lexicography for the Americas - South, Center, Caribbean and Mexico](https://www.americalex.org)

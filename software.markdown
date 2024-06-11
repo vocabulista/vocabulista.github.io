@@ -6,8 +6,7 @@ permalink: /software/
 
 
 #### [MPCD](http://mpcorpus.org): Middle Persian Corpus and Dictionary
-MPCD is a digital corpus and dictionary dedicated to Zoroastrian Middle Persian, powered by Treeflow, a web-based tool for creating digital dictionaries, managing corpora, and editing Universal Dependencies.
-
+MPCD is a digital corpus and dictionary for Zoroastrian Middle Persian. It is powered by Treeflow, a web-based tool used for creating digital dictionaries, managing texts, and annotating them. While it does support generic annotations, it is primarily tailored for Universal Dependencies.
 * * *
 <br/>
 
