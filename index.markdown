@@ -4,15 +4,16 @@
 
 layout: home
 ---
- <img style="float: right;" width="150px" heigth="150px" src="/assets/web_small.jpg">
+ <img style="float: right;" width="150px" heigth="150px" src="/assets/IMG_2137.jpg">
 
 
 <br/>
 
-I work as a research software engineer at the Regional Computing Center (RRZK) of the University of Cologne, specializing in computational linguistics.
+I work as a data engineer at the IT Center University of Cologne (ITCC).
+
 My main research goal is to improve access to linguistic data.
 
-__Email__: [f.mondaca@uni-koeln.de](f.mondaca@uni-koeln.de)
+__Email__: [mondaca@uni-koeln.de](mondaca@uni-koeln.de)
 
 
 <br/>
@@ -24,5 +25,4 @@ Profiles: [Google Scholar](https://scholar.google.de/citations?user=jZE0wtMAAAAJ
 Affiliations:
 
 - GSCL - [German Society for Computational Linguistics and Language Technology](https://gscl.org/en)  
-- CCEH - [Cologne Center for eHumanities](https://cceh.uni-koeln.de/)
 - CCLS - [Cologne Center for Language Studies](https://ccls.phil-fak.uni-koeln.de/)
