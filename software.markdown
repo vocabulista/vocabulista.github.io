@@ -28,7 +28,7 @@ EISP allows you to extract, index and search any PDF containing text.
 
 Digital version of a fundamental work for the Chilean and Latin American lexicography, compiled by [Rodolfo Lenz](https://de.wikipedia.org/wiki/Rodolfo_Lenz). 
 
-The application is a bit old, but it works.
+Despite its age, the application remains functional.
 
 * * *
 <br/>
