@@ -13,7 +13,7 @@ I work as a data engineer at the IT Center University of Cologne (ITCC).
 
 My main research goal is to improve access to linguistic data.
 
-__Email__: [f.mondaca@uni-koeln.de](mailto:f.mondaca@uni-koeln.de)
+__Email__: [mondaca@uni-koeln.de](mailto:mondaca@uni-koeln.de)
 
 
 <br/>
