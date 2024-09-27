@@ -12,7 +12,7 @@ layout: home
 I work as a research software engineer at the Regional Computing Center (RRZK) of the University of Cologne, specializing in computational linguistics.
 My main research goal is to improve access to linguistic data.
 
-__Email__: [f.mondaca@uni-koeln.de](f.mondaca@uni-koeln.de)
+__Email__: [f.mondaca@uni-koeln.de](mailto:f.mondaca@uni-koeln.de)
 
 
 <br/>
