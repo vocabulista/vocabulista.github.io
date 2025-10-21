@@ -20,10 +20,17 @@
 
 title: Francisco Mondaca
 email: mondaca@uni-koeln.de
-description: Computational Linguist - Research Software Engineer
+description: Research Software Engineer developing digital infrastructure for cultural heritage preservation at IT Center University of Cologne (ITCC). Specializing in computational linguistics and linguistic data access.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://vocabulista.com # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  vocabulista
+github_username: vocabulista
+twitter_username: vocabulista
+
+# SEO Settings
+author:
+  name: Francisco Mondaca
+  email: mondaca@uni-koeln.de
+  twitter: vocabulista
 
 # Build settings
 theme: minima
@@ -31,11 +38,22 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Social profiles for structured data
 social:
   name: Francisco Mondaca
   links:
     - https://www.linkedin.com/in/fcomondaca
     - https://github.com/vocabulista
+    - https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en
+    - https://orcid.org/0000-0003-1384-7297
+
+# Open Graph defaults
+og_image: /assets/IMG_2137.jpg
+
+# Additional SEO
+lang: en_US
+tagline: Research Software Engineer - Cultural Heritage Preservation
+keywords: research software engineer, computational linguistics, cultural heritage, digital infrastructure, linguistic data, ITCC, University of Cologne
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -9,9 +9,11 @@ layout: home
 
 <br/>
 
-I work as a data engineer at the IT Center University of Cologne (ITCC).
+Research Software Engineer
 
-My main research goal is to improve access to linguistic data.
+Developing digital infrastructure for cultural heritage preservation
+
+IT Center University of Cologne (ITCC)
 
 __Email__: [mondaca@uni-koeln.de](mailto:mondaca@uni-koeln.de)
 
