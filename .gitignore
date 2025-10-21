@@ -6,3 +6,4 @@ vendor
 .history
 Gemfile.lock
 Gemfile
+.bundle
