@@ -1,30 +1,31 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
- <img style="float: right;" width="150px" heigth="150px" src="/assets/IMG_2137.jpg">
 
+<section class="hero">
+  <div class="hero-text">
+    <p class="hero-title">Research Software Engineer</p>
+    <p class="hero-blurb">I develop digital tools for linguistic research and cultural heritage.</p>
+  </div>
+  <img class="hero-photo" src="/assets/fco.jpg" alt="Francisco Mondaca">
+</section>
 
-<br/>
+<dl class="meta-list">
+  <dt>Working at</dt>
+  <dd><a href="https://itcc.uni-koeln.de">ITCC — IT Center University of Cologne</a></dd>
 
-Research Software Engineer
+  <dt>Email</dt>
+  <dd><a href="mailto:mondaca@uni-koeln.de">mondaca@uni-koeln.de</a></dd>
 
-Developing digital infrastructure for cultural heritage preservation
+  <dt>Profiles</dt>
+  <dd>
+    <a href="https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en">Google Scholar</a>
+    <a href="https://orcid.org/0000-0003-1384-7297">ORCID</a>
+  </dd>
 
-IT Center University of Cologne (ITCC)
-
-__Email__: [mondaca@uni-koeln.de](mailto:mondaca@uni-koeln.de)
-
-
-<br/>
-
-Profiles: [Google Scholar](https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-1384-7297)
-
-<br/>
-
-Affiliations:
-
-- GSCL - [German Society for Computational Linguistics and Language Technology](https://gscl.org/en)  
-- CCLS - [Cologne Center for Language Studies](https://ccls.phil-fak.uni-koeln.de/)
+  <dt>Affiliations</dt>
+  <dd>
+    <a href="https://gscl.org/en">GSCL — German Society for Computational Linguistics and Language Technology</a>
+    <a href="https://ccls.phil-fak.uni-koeln.de/">CCLS — Cologne Center for Language Studies</a>
+  </dd>
+</dl>
