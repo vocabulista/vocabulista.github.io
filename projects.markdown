@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software
-permalink: /software/
+title: Projects
+permalink: /projects/
 ---
 
 <p class="page-intro">A selection of projects I've contributed to over the years.</p>

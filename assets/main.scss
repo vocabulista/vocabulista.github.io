@@ -7,9 +7,9 @@
 /* ---------- Home hero (name, blurb, photo) ---------- */
 .hero {
   display: flex;
-  align-items: flex-start;
-  gap: 1.75rem;
-  margin: 0.5rem 0 1.75rem;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.25rem 0 2.25rem;
 }
 
 .hero-text {
@@ -18,26 +18,31 @@
 }
 
 .hero-title {
-  margin: 0 0 0.6rem;
-  font-size: 1.35rem;
+  display: block;
+  margin: 0 0 0.7rem;
+  font-size: 0.78rem;
   font-weight: 600;
-  color: #1a1a1a;
-  letter-spacing: -0.01em;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #2a7ae2;
 }
 
 .hero-blurb {
   margin: 0;
-  color: #333;
-  line-height: 1.55;
-  font-size: 1.05rem;
+  color: #1a1a1a;
+  line-height: 1.4;
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: -0.005em;
 }
 
 .hero-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 8px;
+  width: 160px;
+  height: 160px;
+  border-radius: 10px;
   object-fit: cover;
   flex-shrink: 0;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.08);
 }
 
 @media (max-width: 600px) {
