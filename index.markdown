@@ -5,7 +5,7 @@ layout: home
 <section class="hero">
   <div class="hero-text">
     <p class="hero-title">Research Software Engineer</p>
-    <p class="hero-blurb">I develop digital tools for linguistic research and cultural heritage.</p>
+    <p class="hero-blurb">I develop digital tools for linguistic research and cultural heritage</p>
   </div>
   <img class="hero-photo" src="/assets/fco.jpg" alt="Francisco Mondaca">
 </section>

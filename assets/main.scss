@@ -2,7 +2,41 @@
 # Custom styles on top of the minima theme.
 ---
 
+/* ---------- Self-hosted Jost (variable font) ---------- */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/assets/fonts/jost-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/assets/fonts/jost-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 @import "minima";
+
+/* ---------- Typography ---------- */
+body,
+.site-title,
+.page-link,
+.site-header,
+.site-footer,
+.page-content,
+input,
+button,
+select,
+textarea {
+  font-family: 'Jost', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
 
 /* ---------- Home hero (name, blurb, photo) ---------- */
 .hero {
@@ -109,60 +143,75 @@
   border-bottom: 1px solid #eee;
 }
 
-/* ---------- Project cards (software page) ---------- */
+/* ---------- Project cards ---------- */
 .project {
-  padding: 1.25rem 1.6rem;
-  margin: 0 -2.5rem 1.4rem;
-  border: 1px solid #ececec;
-  border-left: 3px solid #2a7ae2;
-  border-radius: 0 6px 6px 0;
-  background: #fafafa;
-  transition: transform 0.15s ease, box-shadow 0.2s ease, border-left-color 0.2s ease;
+  position: relative;
+  padding: 1.6rem 1.8rem;
+  margin: 0 -1.5rem 1.1rem;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: 12px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+  transition: transform 0.2s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 @media (max-width: 800px) {
   .project {
     margin-left: 0;
     margin-right: 0;
+    padding: 1.3rem 1.4rem;
   }
 }
 
 .project:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-  border-left-color: #1756a9;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  border-color: rgba(42, 122, 226, 0.3);
 }
 
-.project-title {
-  margin: 0 0 0.35rem;
-  font-size: 1.15rem;
+.project-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 0.65rem;
+}
+
+.project-link:hover,
+.project-link:focus {
+  text-decoration: none;
+}
+
+.project-tag {
+  display: inline-block;
+  margin: 0 0 0.45rem;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #2a7ae2;
+  background: rgba(42, 122, 226, 0.08);
+  border-radius: 4px;
+  vertical-align: middle;
+}
+
+.project-name {
+  margin: 0;
+  font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.3;
-}
-
-.project-title a {
+  letter-spacing: -0.012em;
   color: #1a1a1a;
-  text-decoration: none;
-  border-bottom: 1px dashed transparent;
+  transition: color 0.2s ease;
 }
 
-.project-title a:hover {
+.project:hover .project-name {
   color: #2a7ae2;
-  border-bottom-color: #2a7ae2;
 }
 
-.project-tagline {
-  font-weight: 400;
-  color: #666;
-  font-size: 0.95em;
-}
-
-.project p {
+.project-desc {
   margin: 0;
-  line-height: 1.55;
   color: #333;
-}
-
-.project p + p {
-  margin-top: 0.6rem;
+  line-height: 1.6;
+  font-size: 1.05rem;
 }
