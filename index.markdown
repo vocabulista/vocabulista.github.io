@@ -12,20 +12,20 @@ layout: home
 
 <dl class="meta-list">
   <dt>Working at</dt>
-  <dd><a href="https://itcc.uni-koeln.de">ITCC — IT Center University of Cologne</a></dd>
+  <dd><a href="https://itcc.uni-koeln.de" target="_blank" rel="noopener noreferrer">ITCC — IT Center University of Cologne</a></dd>
 
   <dt>Email</dt>
   <dd><a href="mailto:mondaca@uni-koeln.de">mondaca@uni-koeln.de</a></dd>
 
   <dt>Profiles</dt>
   <dd>
-    <a href="https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en">Google Scholar</a>
-    <a href="https://orcid.org/0000-0003-1384-7297">ORCID</a>
+    <a href="https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+    <a href="https://orcid.org/0000-0003-1384-7297" target="_blank" rel="noopener noreferrer">ORCID</a>
   </dd>
 
   <dt>Affiliations</dt>
   <dd>
-    <a href="https://gscl.org/en">GSCL — German Society for Computational Linguistics and Language Technology</a>
-    <a href="https://ccls.phil-fak.uni-koeln.de/">CCLS — Cologne Center for Language Studies</a>
+    <a href="https://gscl.org/en" target="_blank" rel="noopener noreferrer">GSCL — German Society for Computational Linguistics and Language Technology</a>
+    <a href="https://ccls.phil-fak.uni-koeln.de/" target="_blank" rel="noopener noreferrer">CCLS — Cologne Center for Language Studies</a>
   </dd>
 </dl>
