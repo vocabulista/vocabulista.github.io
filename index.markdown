@@ -29,3 +29,8 @@ layout: home
     <a href="https://ccls.phil-fak.uni-koeln.de/" target="_blank" rel="noopener noreferrer">CCLS — Cologne Center for Language Studies</a>
   </dd>
 </dl>
+
+<section class="consultancy">
+  <p class="consultancy-label">Consultancy</p>
+  <p class="consultancy-text">Available for consulting on digital archives, corpora, and dictionary platforms. For project inquiries, please write to <a href="mailto:francisco@vocabulista.com">francisco@vocabulista.com</a>.</p>
+</section>
