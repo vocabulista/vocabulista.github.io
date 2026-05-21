@@ -16,7 +16,7 @@ description: "Selected projects by Francisco Mondaca covering digital archives, 
 </article>
 
 <article class="project">
-  <a class="project-link" target="_blank" rel="noopener noreferrer" href="https://diccionario.lenguasdechile.cl">
+  <a class="project-link" target="_blank" rel="noopener noreferrer" href="https://diccionariodechile.cl">
     <span class="project-tag">DCh</span>
     <h3 class="project-name">Diccionario de Chile</h3>
   </a>
