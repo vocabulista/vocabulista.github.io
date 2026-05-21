@@ -146,22 +146,37 @@ description: "Curriculum vitae of Francisco Mondaca, Research Software Engineer 
   <h2 class="cv-section-label">Tech</h2>
   <dl class="cv-tech">
     <dt>Languages</dt>
-    <dd>Python, Go, Java, JavaScript</dd>
+    <dd>Python (primary), Go, JavaScript, Java</dd>
 
     <dt>Web</dt>
-    <dd>Django, Flask, htmx, React, Svelte</dd>
+    <dd>Django (primary), Flask, htmx, React, Svelte</dd>
+
+    <dt>APIs</dt>
+    <dd>REST, GraphQL</dd>
 
     <dt>Data &amp; search</dt>
     <dd>PostgreSQL, MongoDB, Elasticsearch</dd>
 
-    <dt>ML / NLP</dt>
-    <dd>pandas, scikit-learn, PyTorch, spaCy, Stanza</dd>
+    <dt>Data formats</dt>
+    <dd>TEI/XML, JSON, RDF</dd>
+
+    <dt>Ontologies</dt>
+    <dd>Ontolex-Lemon, CIDOC-CRM</dd>
+
+    <dt>Archive standards</dt>
+    <dd>OCFL, OAI-PMH, IIIF</dd>
+
+    <dt>NLP &amp; ML</dt>
+    <dd>spaCy, Stanza, pandas, scikit-learn, PyTorch</dd>
 
     <dt>Infrastructure</dt>
-    <dd>Docker, object storage</dd>
+    <dd>Linux, Docker, S3, nginx, Caddy</dd>
 
-    <dt>APIs</dt>
-    <dd>REST, GraphQL</dd>
+    <dt>Testing &amp; quality</dt>
+    <dd>pytest, mypy, ruff</dd>
+
+    <dt>CI/CD</dt>
+    <dd>GitLab CI/CD, GitHub Actions</dd>
   </dl>
 </section>
 
