@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: "Selected projects by Francisco Mondaca — language archives, corpora, dictionaries, and APIs for linguistic research and cultural heritage: LAC, MPCD, VedaWeb, Kosh, Linguee."
+description: "Selected projects by Francisco Mondaca covering digital archives, corpora, dictionaries, and APIs for linguistic research and cultural heritage: LAC, MPCD, VedaWeb, Kosh, Linguee."
 ---
 
 <p class="page-intro">A selection of projects I've contributed to over the years:</p>
@@ -26,9 +26,9 @@ description: "Selected projects by Francisco Mondaca — language archives, corp
 <article class="project">
   <a class="project-link" target="_blank" rel="noopener noreferrer" href="https://vedaweb.uni-koeln.de">
     <span class="project-tag">VedaWeb</span>
-    <h3 class="project-name">A Platform for Linguistic Research on Old Indic Texts</h3>
+    <h3 class="project-name">A Platform for Linguistic Research on Old Indo-Aryan Texts</h3>
   </a>
-  <p class="project-desc">A web-based, open-access platform for linguistic research on Old Indic texts. The pilot corpus is the Rigveda, made available in a digitally accessible, morphologically and metrically annotated form and searchable by lexicographic and corpus-linguistic criteria.</p>
+  <p class="project-desc">A web-based, open-access platform for linguistic research on Old Indo-Aryan texts. The pilot corpus is the Rigveda, made available in a digitally accessible, morphologically and metrically annotated form and searchable by lexicographic and corpus-linguistic criteria.</p>
 </article>
 
 <article class="project">

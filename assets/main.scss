@@ -210,6 +210,14 @@ textarea {
   border-bottom: 1px solid #eee;
 }
 
+.page-intro p {
+  margin: 0 0 0.75rem;
+}
+
+.page-intro p:last-child {
+  margin-bottom: 0;
+}
+
 /* ---------- Site footer (cross-page contact line) ---------- */
 .site-footer {
   border-top: 1px solid #eee;
@@ -264,6 +272,197 @@ textarea {
   .footer-sep {
     display: none;
   }
+}
+
+/* ---------- CV page ---------- */
+.cv-download {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem 1.25rem;
+  margin: 0.25rem 0 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.cv-download-btn {
+  display: inline-block;
+  padding: 0.55rem 1.15rem;
+  background: #2a7ae2;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.cv-download-btn:hover {
+  background: #1f63bf;
+  color: #fff;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.cv-download-meta {
+  color: #777;
+  font-size: 0.85rem;
+}
+
+.cv-section {
+  margin: 2.5rem 0 0;
+}
+
+.cv-section-label {
+  margin: 0 0 1rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #2a7ae2;
+}
+
+.cv-entry {
+  margin: 0 0 1.5rem;
+}
+
+.cv-entry:last-child {
+  margin-bottom: 0;
+}
+
+.cv-entry-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.25rem;
+}
+
+.cv-entry-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #1a1a1a;
+}
+
+.cv-entry-title a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.cv-entry-title a:hover {
+  color: #2a7ae2;
+}
+
+.cv-entry-date {
+  font-size: 0.85rem;
+  color: #888;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.cv-entry-sub {
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.cv-entry-sub a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+.cv-entry-sub a:hover {
+  text-decoration: underline;
+}
+
+.cv-entry-desc {
+  margin: 0;
+  color: #333;
+  line-height: 1.55;
+  font-size: 0.97rem;
+}
+
+.cv-pubs {
+  margin: 0;
+  padding-left: 1.3rem;
+}
+
+.cv-pubs li {
+  margin-bottom: 0.85rem;
+  color: #333;
+  line-height: 1.55;
+  font-size: 0.97rem;
+}
+
+.cv-pubs li:last-child {
+  margin-bottom: 0;
+}
+
+.cv-pubs a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+.cv-pubs a:hover {
+  text-decoration: underline;
+}
+
+.cv-teach {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cv-teach li {
+  margin-bottom: 0.45rem;
+  color: #333;
+  font-size: 0.97rem;
+}
+
+.cv-teach li:last-child {
+  margin-bottom: 0;
+}
+
+.cv-tech {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1.5rem;
+  row-gap: 0.45rem;
+  margin: 0;
+}
+
+.cv-tech dt {
+  font-weight: 600;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.cv-tech dd {
+  margin: 0;
+  color: #333;
+  font-size: 0.97rem;
+}
+
+@media (max-width: 500px) {
+  .cv-tech {
+    grid-template-columns: 1fr;
+    row-gap: 0.2rem;
+  }
+  .cv-tech dt {
+    margin-top: 0.5rem;
+  }
+}
+
+.cv-note {
+  margin: 2.5rem 0 0;
+  font-size: 0.88rem;
+  color: #777;
+  font-style: italic;
 }
 
 /* ---------- Project cards ---------- */

@@ -20,7 +20,7 @@
 
 title: Francisco Mondaca
 email: mondaca@uni-koeln.de
-description: Research Software Engineer at the IT Center, University of Cologne (ITCC), developing digital tools for linguistic research and cultural heritage. Work spans language archives (LAC), corpora and dictionaries (MPCD, VedaWeb, Kosh), and APIs for lexical data.
+description: Research Software Engineer at the IT Center, University of Cologne (ITCC), developing digital tools for linguistic research and cultural heritage. Work spans digital archives (LAC), corpora and dictionaries (MPCD, VedaWeb, Kosh), and APIs for lexical data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://vocabulista.com # the base hostname & protocol for your site, e.g. http://example.com
 github_username: vocabulista
@@ -54,7 +54,7 @@ og_image: /assets/IMG_2137.jpg
 # Additional SEO
 lang: en_US
 tagline: Research Software Engineer — Linguistic Research & Cultural Heritage
-keywords: research software engineer, computational linguistics, digital humanities, cultural heritage, language archive, language documentation, lexical data, dictionaries, corpora, REST API, GraphQL, ITCC, University of Cologne, LAC, MPCD, VedaWeb, Kosh, Francisco Mondaca
+keywords: research software engineer, computational linguistics, digital humanities, cultural heritage, digital archive, language archive, language documentation, lexical data, dictionaries, corpora, REST API, GraphQL, ITCC, University of Cologne, LAC, MPCD, VedaWeb, Kosh, Francisco Mondaca
 
 # Exclude from processing.
 # The following items will not be processed, by default.
