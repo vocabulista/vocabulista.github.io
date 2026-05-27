@@ -19,6 +19,7 @@ layout: home
 
   <dt>Profiles</dt>
   <dd>
+    <a href="https://github.com/vocabulista" target="_blank" rel="noopener noreferrer">GitHub</a>
     <a href="https://scholar.google.de/citations?user=jZE0wtMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
     <a href="https://orcid.org/0000-0003-1384-7297" target="_blank" rel="noopener noreferrer">ORCID</a>
   </dd>
